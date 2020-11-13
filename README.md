@@ -1,6 +1,6 @@
 ## Hi, I´m Enrique Rodriguez 👋🏽
 
-<img width=250 align="right" src="https://github.com/enriquetecfan11/enriquetecfan11/blob/main/Memoji.png" />
+<img width=150 align="right" src="https://github.com/enriquetecfan11/enriquetecfan11/blob/main/Memoji.png" />
 
 I'm a **Maker and Developer**, working as a CEO at Informatica 404.
 
