@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I´m Enrique Rodriguez 👋🏽
 
-<!--
-**enriquetecfan11/enriquetecfan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Maker and Developer**, working as a CEO at Informatica 404.
+
+- 👨🏽‍💻 Working with **Kotlin, HTML, CSS, JavaScript, React** and **C++**.
+- 🌱 I’m currently learning a **Full Stack Android Developer** course .
+- 🚀 I have a startup it is Informatica 404 and its website is www.informatica404.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/enrique-rodriguez-vela/) and [Twitter](https://twitter.com/enriquetecfan).
+- 🧱 Fun fact: I love everything developed with Free software.
+- 💬 Ask me about all technologies
+- 📧 If you want contact with me my email is kikerodrivela@gmail.com
