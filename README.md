@@ -2,7 +2,7 @@
 
 <img width=150 align="right" src="https://github.com/enriquetecfan11/enriquetecfan11/blob/main/Memoji.png" />
 
-I'm a **Maker and Developer**, working as a CEO at Informatica 404.
+I'm a **Maker and Developer**
 
 - 👨🏽‍💻 Working with **Kotlin, HTML, CSS, JavaScript, React** and **C++**.
 - 🌱 I’m currently learning a **Full Stack Android Developer** course .
