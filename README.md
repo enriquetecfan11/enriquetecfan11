@@ -1,6 +1,6 @@
 ## Hi, I´m Enrique Rodriguez 👋🏽
 
-<img width=150 align="right" src="https://github.com/enriquetecfan11/enriquetecfan11/blob/main/Memoji.png" />
+<img width=150 align="right" src="https://github.com/enriquetecfan11/enriquetecfan11/blob/main/Memoji-1.png" />
 
 I'm a **Software Developer**
 
