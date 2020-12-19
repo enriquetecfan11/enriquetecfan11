@@ -2,10 +2,9 @@
 
 <img width=150 align="right" src="https://github.com/enriquetecfan11/enriquetecfan11/blob/main/Memoji-01.png" />
 
-I'm a **Software Developer**
+I'm a **Software and Hardware Developer**
 
 - 👨🏽‍💻 Working with **Kotlin, HTML, CSS, JavaScript, React** and **C++**.
-- 🌱 I’m currently learning a **Full Stack Android Developer** course .
 - 🚀 I have a startup it is Informatica 404 and its website is www.informatica404.com
 - 📫 How to reach me here -> [Social Networks](https://linktr.ee/enriquetecfan)
 - 🧱 Fun fact: I love everything developed with Free software.
