@@ -4,7 +4,7 @@
 
 I'm a **Software and Hardware Developer**
 
-- 👨🏽‍💻 Working with **Kotlin, HTML, CSS, JavaScript, React** and **C++**.
+- 👨🏽‍💻 Working with **Kotlin, HTML, CSS, JavaScript, React, Angular** and **C++**.
 - 🚀 I have a startup it is Informatica 404 and its website is www.informatica404.com
 - 📫 How to reach me here -> [Social Networks](https://linktr.ee/enriquetecfan)
 - 🧱 Fun fact: I love everything developed with Free software.
