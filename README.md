@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular and Nodejs**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/enriquetecfan11)
 
 - 💬 Ask me about **Ask me about all technologies**
 
