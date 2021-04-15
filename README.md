@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enrique Rodriguez</h1>
-<h3 align="center">A passionate Full Stack Developer form Spain</h3>
+<h3 align="center">A Junior Full Stack Developer form Spain</h3>
 
 - 🔭 I have a startup it is [Informatica 404](www.informatica404.com)
 
