@@ -8,30 +8,25 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/enriquetecfan11/enriquetecfan11/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">About me</h2>
 
 ###
 
 <br clear="both">
 
-<p align="center">🌱 I’m currently working with React, Nodejs, Express and Web Mapping<br><br>🌍 Also i´m currently working with IOT Sensors with Arduino, Sigfox, LoRa and ESP32<br><br>👨‍💻 All of my projects are available at Github<br><br>📄 All my links https://linktr.ee/enriquetecfan</p>
+<p align="left">🌱 I’m currently working with React, Nodejs, Express and Web Mapping<br><br>🌍 Also i´m currently working with IOT Sensors with Arduino, Sigfox, LoRa and ESP32<br><br>👨‍💻 All of my projects are available at Github<br><br>📄 All my links https://linktr.ee/enriquetecfan</p>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=algolia&locale=en&hide_border=true&username=enriquetecfan11" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=true&username=enriquetecfan11" height="150" alt="languages graph"  />
 
 </div>
 
+My hours of code ->
 [![WakaTime](https://wakatime.com/badge/github/wakatime/vscode-wakatime.png?branch=master)](https://wakatime.com/badge/github/wakatime/vscode-wakatime)
 
 
