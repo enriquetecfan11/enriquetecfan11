@@ -1,8 +1,10 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Enrique Rodriguez</h1>
-
-###
-
+<img width=150 align="center" src="https://github.com/enriquetecfan11/enriquetecfan11/blob/main/memojitecfan.png" />
 <p align="center">I am Junior Full Stack Developer form Spain</p>
+</div>
+
+<br clear="both">
 
 ###
 
@@ -27,7 +29,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=algolia&locale=en&hide_border=true&username=enriquetecfan11" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=true&username=enriquetecfan11" height="150" alt="languages graph"  />
+
 </div>
+
+[![WakaTime](https://wakatime.com/badge/github/wakatime/vscode-wakatime.png?branch=master)](https://wakatime.com/badge/github/wakatime/vscode-wakatime)
+
 
 ###
 
