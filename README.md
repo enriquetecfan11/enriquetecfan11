@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Enrique Rodriguez</h1>
 <p align="center">I am Junior Full Stack Developer form Spain</p>
-<img width=150 align="center" src="https://github.com/enriquetecfan11/enriquetecfan11/blob/main/memojitecfan.png" />
 </div>
 
 <br clear="both">
