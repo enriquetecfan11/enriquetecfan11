@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Enrique Rodriguez</h1>
-<p align="center">I a sofware developer form Madrid, Spain</p>
+<p align="center">I'm a sofware developer form Madrid, Spain</p>
 </div>
 
 <br clear="both">
