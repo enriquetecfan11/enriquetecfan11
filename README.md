@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Enrique Rodriguez</h1>
-<p align="center">I am Junior Full Stack Developer form Spain</p>
+<p align="center">I a sofware developer form Madrid, Spain</p>
 </div>
 
 <br clear="both">
@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<p align="left">🌱 I’m currently working with React, Nodejs, Express and Web Mapping<br><br>🌍 Also i´m currently working with IOT Sensors with Arduino, Sigfox, LoRa and ESP32<br><br>👨‍💻 All of my projects are available at Github<br><br>📄 All my links https://linktr.ee/enriquetecfan</p>
+<p align="left">🌱 I’m currently working with React, Nodejs, Express, Python and Web Mapping<br><br>🌍 Also i´m currently working with IOT Sensors with Arduino, Sigfox, LoRa and ESP32<br><br></p>
 
 ###
 
