@@ -6,16 +6,17 @@
 <h2 align="left">About me</h2><img align="right" style="width:16rem; height:auto" src="https://avatars.githubusercontent.com/u/16477475?v=4"/>
 
 <h4 align="left">
-I'm a sofware developer form Madrid, Spain. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+I'm Quique Rodríguez, a software developer from Madrid, Spain, passionate about technology, generative AI, and process automation. I love coding, designing smart systems, and experimenting with ideas that bring real value.  
+<br><br>
+I work with Angular, Node.js, Python, Docker, and microservices architectures. I specialize in generative AI development and building automated solutions that integrate backend logic, APIs, and AI models.  
+<br><br>
+I'm always exploring new challenges, learning new tools, and connecting with people who enjoy building and sharing knowledge as much as I do.
+</h4>
 
-<h4 align="left">I’m currently working with React, Nodejs, Express, Python<br></h4>
 
-<h4>I am a specialist in generative ia and AI automations.
-<br></h4>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://personalwebsite-tawny.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:kikerodrivela@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/enriquetecfan11"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/enrique-rodriguez-vela/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
